@@ -24,7 +24,8 @@ Another thing, **always quit the game with Select**. The game will ask you to qu
 2. Patch the `data.win` file at the game's directory using xDelta, save it as `game.droid` and put it in the assets folder of the `.APK` file also found in the Downloads.
 3. Grab every single file from the game folder (except for the `.exe` file) and put it in the assets folder of the `.APK`.
 4. Grab the finished APK, open up VitaShell on your PS Vita, and drag the file to `ux0:data/gms/<Whatever name you want>`. Make sure to rename the file to `game.apk`.
-5. Enjoy the game.
+5. In the assets folder in VitaShell, create three folders: `imscared`, `Enter a great place` and `Entra in un posto meraviglioso`. These are act as folders the game will look for.
+6. Enjoy the game.
 
 # Issues
 Some issues are present.
