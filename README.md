@@ -4,7 +4,7 @@ IMSCARED is, as it's advertised, a "pixelated nightmare". It's a critically-accl
 This repo contains a patch made specifically for the [YoYo Loader](https://github.com/Rinnegatamante/yoyoloader_vita) by [Rinnegatamante](https://github.com/Rinnegatamante).
 
 # Some things I should know?
-Yes. First off, the game will try to deceive you and will create files in the assets folder of the game (`ux0:data/gms/<IMSCARED HERE>/assets`).
+Yes. First off, the game will try to deceive you as many times as it can and will create files in the assets folder of the game (`ux0:data/gms/<IMSCARED HERE>/assets`).
 
 Be sure to check it often with a file management app like VitaShell. 
 
