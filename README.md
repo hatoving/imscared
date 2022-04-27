@@ -27,6 +27,8 @@ Another thing, **always quit the game with Select**. The game will ask you to qu
 5. In the assets folder in VitaShell, create three folders: `imscared`, `Enter a great place` and `Entra in un posto meraviglioso`. These are act as folders the game will look for.
 6. Enjoy the game.
 
+Note: Don't delete any of the assets folders.
+
 # Issues
 Some issues are present.
 
