@@ -20,12 +20,22 @@ Another thing, **always quit the game with Select**. The game will ask you to qu
 - Misc. things - Circle/Triangle
 
 # How to Install
+## For the Runner
 1. Download the patch file and buy IMSCARED on Steam.
 2. Patch the `data.win` file at the game's directory using xDelta, save it as `game.droid` and put it in the assets folder of the `.APK` file also found in the Downloads.
 3. Grab every single file from the game folder (except for the `.exe` file) and put it in the assets folder of the `.APK`.
 4. Grab the finished APK, open up VitaShell on your PS Vita, and drag the file to `ux0:data/gms/<Whatever name you want>`. Make sure to rename the file to `game.apk`.
 5. In the assets folder in VitaShell, create three folders: `imscared`, `Enter a great place` and `Entra in un posto meraviglioso`. These are act as folders the game will look for.
 6. Enjoy the game.
+
+## For the Standalone VPK
+
+1. Download the patch file and buy IMSCARED on Steam.
+2. Download and install the .VPK from the Releases page.
+3. Patch the `data.win` file at the game's directory using xDelta, save it as `game.droid` and put it in the assets folder of the `.APK` file found on your PS Vita: ``ux0:app/IMSCARED0/game.apk``
+4. Grab every single file from the game folder (except for the `.exe` file) and put it in the assets folder of the `.APK`.
+6. Create a folder called ``IMSCARED0`` on your PS Vita at ``ux0:data/gms/`` and inside of it another folder called ``assets``. Create three folders in the assets folder: `imscared`, `Enter a great place` and `Entra in un posto meraviglioso`. These are act as folders the game will look for.
+7. Enjoy the game.
 
 Note: Don't delete any of the assets folders.
 
