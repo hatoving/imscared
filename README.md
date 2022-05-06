@@ -49,6 +49,7 @@ Another thing is that some textures in the game are not edited to suit for the P
 Some text files might not be generated because of the external filesysten the game used. While I made sure that all of them were replaced, one or two might not come up.
 
 I will look into fixing these issues as soon as I can. Meanwhile, if you find any other issues, please report so in the Issues page.
+Note: I'm aware that the developer is working on a quality update for the game. I'll look into it once it's released.
 
 # Credits
 - [Rinnegatamante](https://github.com/Rinnegatamante) for making the YoYo Loader
