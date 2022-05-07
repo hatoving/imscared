@@ -35,7 +35,8 @@ Another thing, **always quit the game with Select**. The game will ask you to qu
 3. Patch the `data.win` file at the game's directory using xDelta, save it as `game.droid` and put it in the assets folder of the `.APK` file found on your PS Vita: ``ux0:app/IMSCARED0/game.apk``
 4. Grab every single file from the game folder (except for the `.exe` file) and put it in the assets folder of the `.APK`.
 6. In the ``IMSCARED0`` folder on your PS Vita at ``ux0:data/gms/``, create inside of it a folder called ``assets``. Create three folders in that folder: `imscared`, `Enter a great place` and `Entra in un posto meraviglioso`. These are act as folders the game will look for.
-7. Enjoy the game.
+7. Make sure to enable Fake Windows to enable input in the YoYo Runner.
+8. Enjoy the game.
 
 Note: Don't delete any of the assets folders.
 
